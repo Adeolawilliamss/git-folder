@@ -1,2 +1,2 @@
 # git-folder
-this is a nwq git folder
+this is a new git folder
